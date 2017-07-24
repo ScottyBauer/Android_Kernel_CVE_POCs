@@ -1,4 +1,4 @@
-# This repository houses a series of Proofs of concept C programs that exploit Vulnerabilities I have found the Android Kernel.
+# This repository houses a series of Proofs of Concept C programs that exploit vulnerabilities that I have found in the Android Kernel.
 
 For the most up-to-date list of my bugs see http://plzdonthack.me
 
